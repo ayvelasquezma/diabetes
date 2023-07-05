@@ -2,17 +2,17 @@
 
 ## Infraestructura
 
-- **Nombre del modelo:** (nombre que se le ha dado al modelo)
-- **Plataforma de despliegue:** (plataforma donde se va a desplegar el modelo)
-- **Requisitos técnicos:** (lista de requisitos técnicos necesarios para el despliegue, como versión de Python, bibliotecas de terceros, hardware, etc.)
-- **Requisitos de seguridad:** (lista de requisitos de seguridad necesarios para el despliegue, como autenticación, encriptación de datos, etc.)
-- **Diagrama de arquitectura:** (imagen que muestra la arquitectura del sistema que se utilizará para desplegar el modelo)
+- **Nombre del modelo:** grid_svc
+- **Plataforma de despliegue:** railway
+- **Requisitos técnicos:** Python 3.10.12, FastAPI 0.99.1, Scikit-learn 1.2.2
+- **Requisitos de seguridad:** Ninguno
+
 
 ## Código de despliegue
 
-- **Archivo principal:** (nombre del archivo principal que contiene el código de despliegue)
-- **Rutas de acceso a los archivos:** (lista de rutas de acceso a los archivos necesarios para el despliegue)
-- **Variables de entorno:** (lista de variables de entorno necesarias para el despliegue)
+- **Archivo principal:** main.py
+- **Rutas de acceso a los archivos:** /predict
+- **Variables de entorno:** Ninguna
 
 ## Documentación del despliegue
 
