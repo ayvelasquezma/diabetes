@@ -8,11 +8,11 @@ El modelo baseline es el primer modelo construido y se utiliza para establecer u
 
 ## Variables de entrada
 
-Lista de las variables de entrada utilizadas en el modelo.
+Las variables utilizadas fueron: ['Pregnancies', 'Age', 'Glucose', 'Insulin', 'BMI']
 
 ## Variable objetivo
 
-Nombre de la variable objetivo utilizada en el modelo.
+La variable que se busco predecir fue: ['Outcome']
 
 ## Evaluación del modelo
 
