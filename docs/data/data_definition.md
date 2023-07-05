@@ -2,11 +2,11 @@
 
 ## Origen de los datos
 
-- [ ] Especificar la fuente de los datos y la forma en que se obtuvieron. 
+- En el proyecto se hará el análisis de datos a un data set diabetes encontrado en la plataforma Kaggle (https://www.kaggle.com/datasets/mathchi/diabetes-data-set), creado por el Instituto Nacional de Diabetes y Enfermedades Digestivas y Renales de Estados Unidos 
 
 ## Especificación de los scripts para la carga de datos
 
-- [ ] Especificar los scripts utilizados para la carga de los datos. 
+- Scripts/data_acquisition/data_acquisition.ipynb
 
 ## Referencias a rutas o bases de datos origen y destino
 

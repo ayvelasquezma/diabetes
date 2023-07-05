@@ -2,23 +2,24 @@
 
 ## Nombre del Proyecto
 
-[Nombre del proyecto aquí]
+Detección de diabetes
 
 ## Objetivo del Proyecto
 
-[Descripción breve del objetivo del proyecto y por qué es importante]
+Ofrecer una herramienta que pueda ayudar en el diagnostico de diabetes en una determinada población con una alta tasa de éxito, para apoyar la detección temprana de la diabetes.
 
 ## Alcance del Proyecto
 
 ### Incluye:
 
-- [Descripción de los datos disponibles]
-- [Descripción de los resultados esperados]
-- [Criterios de éxito del proyecto]
+- Archivo csv con mediciones médicas relevantes para la detección de diabetes
+- Modelo capaz de predicir si una persona presenta diabetes o no
+- El modelo debe cumplir con una alta tasa de precisión en el diagnostico de la diabetes
 
 ### Excluye:
 
-- [Descripción de lo que no está incluido en el proyecto]
+- No se utilizaron todas las mediciones médicas, ya que, al hacer esto el modelo era más complejo y presentaba un bajo rendimiento
+- El modelo no funciona para la población general, sino esta focalizado en un grupo especifico
 
 ## Metodología
 
@@ -38,8 +39,7 @@ Hay que tener en cuenta que estas fechas son de ejemplo, estas deben ajustarse d
 
 ## Equipo del Proyecto
 
-- [Nombre y cargo del líder del proyecto]
-- [Nombre y cargo de los miembros del equipo]
+- Andrés Velásquez
 
 ## Presupuesto
 
@@ -47,12 +47,5 @@ Hay que tener en cuenta que estas fechas son de ejemplo, estas deben ajustarse d
 
 ## Stakeholders
 
-- [Nombre y cargo de los stakeholders del proyecto]
-- [Descripción de la relación con los stakeholders]
-- [Expectativas de los stakeholders]
-
-## Aprobaciones
-
-- [Nombre y cargo del aprobador del proyecto]
-- [Firma del aprobador]
-- [Fecha de aprobación]
+- Población general con indicios de diabetes
+- Personal médico (doctores, enfermeras, etc)
